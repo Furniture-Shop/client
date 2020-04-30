@@ -1,7 +1,5 @@
 # client
 
-Note : use **_npm_** instead of **_yarn_** if you have _npm_ on your machine instead of _yarn_
-
 ## Project setup
 
 ```
