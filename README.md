@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-You need Node.js for `npm` package manager **or** `yarn` package manager install on your mchine for this project.
+You need Node.js for `npm` package manager **or** `yarn` package manager install on your machine for this project.
 
 NPM (Node Package Manager) is installed when you install Node.js
 
