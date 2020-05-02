@@ -81,13 +81,13 @@ The following command allow you to run test with jest.
 **for `yarn` package manager**
 
 ```
-yarn test
+yarn test:unit
 ```
 
 **for `npm` package manager**
 
 ```
-npm run test
+npm run test:unit
 ```
 
 ## Customize Vuejs configuration
