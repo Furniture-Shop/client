@@ -75,6 +75,21 @@ yarn lint
 npm run lint
 ```
 
+## Unit testing
+The following command allow you to run test with jest.
+
+**for `yarn` package manager**
+
+```
+yarn test:unit
+```
+
+**for `npm` package manager**
+
+```
+npm run test:unit
+```
+
 ## Customize Vuejs configuration
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
